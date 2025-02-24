@@ -9,10 +9,10 @@ function convertValues() {
     const currencyValueConvert = document.querySelector(".currency-convert")
 
     const realtoday = 1.00
-    const dolartoday = 5.844
-    const eurotoday = 6.06 //(EUR)"de-DE"
-    const libratoday = 7.19 //(GBP)"en-GB"
-    const PesoArgentino = 0.005 //(ARS)"es-AR"
+    const dolartoday = 5.73
+    const eurotoday = 5.99 //(EUR)"de-DE"
+    const libratoday = 7.26 //(GBP)"en-GB"
+    const PesoArgentino = 0.01 //(ARS)"es-AR"
 
     if (currencySelect1.value == "Real") {
         currencyvalueToConvert.innerHTML = new Intl.NumberFormat("pt-BR", {
