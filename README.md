@@ -11,7 +11,7 @@
 
 
 
-<img alingn-items=center;  src="https://github.com/HericksonSavelli/Conversor-de-Moedas/blob/main/assets/IMG%20Conversor.png">
+<img alingn-items=center;  src="assets/foto conversor descktop-celular.png">
 
 <br>
 <h2>Fale Comigo</h2>
