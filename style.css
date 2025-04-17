@@ -114,3 +114,18 @@ section {
     width: 52px;
     height: 52px;
 }
+@media screen and (max-width: 445px){
+    h1{
+        font-size: 40px;
+    }
+}
+@media screen and (max-width: 340px){
+    h1{
+        font-size: 35px;
+    }
+}
+@media screen and (max-width: 317px){
+    h1{
+        font-size: 25px;
+    }
+}
